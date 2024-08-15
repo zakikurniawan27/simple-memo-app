@@ -51,7 +51,7 @@ class PostController extends Controller
 
         post::whereId($id)->update($up);
 
-        return redirect()->route('index');
+        return redirect()->route('home');
     }
 
     public function trash($id){
