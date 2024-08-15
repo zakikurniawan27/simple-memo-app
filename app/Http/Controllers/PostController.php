@@ -59,6 +59,6 @@ class PostController extends Controller
 
         $del->delete();
 
-        return redirect()->route('index');
+        return redirect()->route('home');
     }
 }
