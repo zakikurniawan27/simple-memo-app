@@ -1,0 +1,33 @@
+a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.oxfordBlue {
+    background-color: #030027;
+}
+
+.beige {
+    color: #f2f3d9;
+}
+
+.spaceCadet {
+    background-color: #151e3f;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: "FILL" 10, "wght" 300, "GRAD" 0, "opsz" 24;
+    color: white;
+    font-size: 21px;
+    display: inline;
+    line-height: 0;
+}
+
+.card {
+    background-color: #151e3f !important;
+    color: #f2f3d9 !important;
+}
+
+#registrasi:hover {
+    color: blue !important;
+}
